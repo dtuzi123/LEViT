@@ -2,7 +2,7 @@
 
 # Title : Online Task-Free Continual Learning via Expansible Vision Transformer
 
-This repository is the implementation of Continual Unsupervised Generative Modeling.
+This repository is the implementation of Online Task-Free Continual Learning via Expansible Vision Transformer.
 
 
 # Paper link : 
